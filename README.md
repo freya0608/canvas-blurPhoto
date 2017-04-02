@@ -1,1 +1,1 @@
-# canvas-vaguePhoto
+# canvas-blurPhoto
